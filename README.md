@@ -36,10 +36,10 @@ CRUD applications are the foundation of most web applications. Being able to man
 - Adds the movie passed in through body to the server movies list. Returns updated movies list.
 
 #### PUT `http://localhost:9000/api/movies/:id`
-- Replaced the movie with the passed in id with data passed in through body. Returns update movies list.
+- Replaces the movie with the passed in id with data passed in through body. Returns update movies list.
 
 #### DELETE `http://localhost:9000/api/movies/:id`
-- Removed movie with the passed in id. Returns the deleted movie's id.
+- Removes movie with the passed in id. Returns the now shortened movies list.
 
 
 ***Make sure to complete your tasks one at a time and complete test each task before proceeding forward.***
